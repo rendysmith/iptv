@@ -9,13 +9,13 @@ https://as01.spr24.net/20811/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20812/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU Cinema+ HD
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20832/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU Comedy HD
 #EXTGRP:Комедии
 https://as01.spr24.net/20813/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU Comedy OLD
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20841/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU Fantastic HD
 #EXTGRP:RU Кинозал
@@ -27,13 +27,13 @@ https://as01.spr24.net/20815/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20816/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU Kinorating HD
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20817/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU Marvel HD
 #EXTGRP:Комедии
 https://as01.spr24.net/20818/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU Marvel OLD
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20840/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU Premiere HD
 #EXTGRP:RU Кинозал
@@ -60,10 +60,10 @@ https://as01.spr24.net/20828/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20829/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU RUSERIAL HD
-#EXTGRP:Советское кино
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20836/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCU СССР HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Советское кино
 https://as01.spr24.net/20830/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,BCUMEDIA HD
 #EXTGRP:RU Кинозал
@@ -165,10 +165,10 @@ https://as01.spr24.net/20702/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20703/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-боевик classic HD
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20704/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-комедия classic HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20705/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-семейный 1 HD
 #EXTGRP:RU Кинозал
@@ -189,10 +189,10 @@ https://as01.spr24.net/20710/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20711/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-киберпанк HD
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20712/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-комедия HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20713/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-криминал HD
 #EXTGRP:RU Кинозал
@@ -246,7 +246,7 @@ https://as01.spr24.net/20728/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20729/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-ужастик HD
-#EXTGRP:Советское кино
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20730/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-ussr-детектив HD
 #EXTGRP:Советское кино
@@ -255,7 +255,7 @@ https://as01.spr24.net/20731/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:Советское кино
 https://as01.spr24.net/20732/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-ussr-комедия HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Советское кино
 https://as01.spr24.net/20733/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-вестерн HD
 #EXTGRP:RU Кинозал
@@ -291,19 +291,19 @@ https://as01.spr24.net/20743/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20744/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-сваты HD
-#EXTGRP:Советское кино
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20746/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-ussr-1941-1945 HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Советское кино
 https://as01.spr24.net/20748/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-воронины HD
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20791/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-мифология HD
-#EXTGRP:Советское кино
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20757/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-ussr-приключения HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Советское кино
 https://as01.spr24.net/20760/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,минимакс-celebrity HD
 #EXTGRP:RU Кинозал
@@ -330,10 +330,10 @@ https://as01.spr24.net/20779/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20786/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4K Netflix
-#EXTGRP:Советское кино
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20900/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4K Сделано в СССР
-#EXTGRP:RU Кинозал
+#EXTGRP:Советское кино
 https://as01.spr24.net/20902/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4K Ужасы
 #EXTGRP:RU Кинозал
@@ -357,10 +357,10 @@ https://as01.spr24.net/20913/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20915/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4k КиноФраншизы
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20926/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4K Комедия
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20927/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4k Боевик
 #EXTGRP:RU Кинозал
@@ -411,13 +411,13 @@ https://as01.spr24.net/20940/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20945/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4k Боевик VHS
-#EXTGRP:Советское кино
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20946/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4K Комедия СССР 1
 #EXTGRP:Советское кино
 https://as01.spr24.net/20947/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Clarity4K Комедия СССР 2
-#EXTGRP:RU Кинозал
+#EXTGRP:Советское кино
 https://as01.spr24.net/20948/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Action HD
 #EXTGRP:RU Кинозал
@@ -426,13 +426,13 @@ https://as01.spr24.net/20951/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20952/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Celentano Brando Connery HD
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20957/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Comedy HD
 #EXTGRP:Комедии
 https://as01.spr24.net/20958/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Comedy Horrors HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20959/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis DC HD
 #EXTGRP:RU Кинозал
@@ -468,19 +468,19 @@ https://as01.spr24.net/20972/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20973/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Mafia HD
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20978/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Marvel HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20979/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Мелодрама HD
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20980/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Old Horrors HD
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20982/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis RUS Комедии HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20985/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis RUS Драма HD
 #EXTGRP:RU Кинозал
@@ -492,10 +492,10 @@ https://as01.spr24.net/20988/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/20989/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Serkan Bolat HD
-#EXTGRP:Комедии
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/20990/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Soviet Comedy HD
-#EXTGRP:RU Кинозал
+#EXTGRP:Комедии
 https://as01.spr24.net/20991/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Oasis Superheroes Series HD
 #EXTGRP:RU Кинозал
@@ -522,10 +522,10 @@ https://as01.spr24.net/21017/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:RU Кинозал
 https://as01.spr24.net/21018/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,VeleS Страшное
-#EXTGRP:Советское кино
+#EXTGRP:RU Кинозал
 https://as01.spr24.net/21019/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,VeleS СССР
-#EXTGRP:RU Кинозал
+#EXTGRP:Советское кино
 https://as01.spr24.net/21020/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,TV1 HD [LT]
 #EXTGRP:Baltic Балтийские
@@ -792,13 +792,13 @@ https://as01.spr24.net/24194/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:UK Britain
 https://as01.spr24.net/24195/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Sky Cinema Action [UK]
-#EXTGRP:Комедии
+#EXTGRP:UK Britain
 https://as01.spr24.net/24196/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Sky Cinema Comedy HD [UK]
 #EXTGRP:Комедии
 https://as01.spr24.net/24197/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Sky Cinema Comedy [UK]
-#EXTGRP:UK Britain
+#EXTGRP:Комедии
 https://as01.spr24.net/24198/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Sky Cinema Thriller HD [UK]
 #EXTGRP:UK Britain
@@ -1239,10 +1239,10 @@ https://as01.spr24.net/17730/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:UK Britain
 https://as01.spr24.net/17731/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Bloomberg [UK]
-#EXTGRP:Комедии
+#EXTGRP:UK Britain
 https://as01.spr24.net/22527/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,Comedy Central [UK]
-#EXTGRP:UK Britain
+#EXTGRP:Комедии
 https://as01.spr24.net/15850/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,E! [UK]
 #EXTGRP:UK Britain
@@ -1344,3 +1344,5 @@ https://as01.spr24.net/24451/mpegts?token=TnNy78ws9ANN32
 #EXTGRP:UK Britain
 https://as01.spr24.net/14314/mpegts?token=TnNy78ws9ANN32
 #EXTINF:0,WWE NETWORK [US]
+#EXTGRP:UK Britain
+https://as01.spr24.net/24266/mpegts?token=TnNy78ws9ANN32

@@ -20,15 +20,21 @@ with open(input_file_name, 'r', encoding='utf-8') as input_file:
 with open(output_file_name, 'w', encoding='utf-8') as output_file:
     # Переписываем строки, содержащие слово "СССР"
     for idx, line in enumerate(lines):
+
+        # EXTINF:0,BCU Action HD
+        # EXTGRP:RU Кинозал
+        #https: // as01.spr24.net / 20810 / mpegts?token = TnNy78ws9ANN32
+
         try:
-
-            if any(i in lines[idx + 2].lower() for i in ['ссср', 'ussr']):
+            if any(i in lines[idx - 1].lower() for i in ['ссср', 'ussr']):
                 line = '#EXTGRP:Советское кино\n'
+                print(idx, line)
+                print(idx + 2, lines[idx + 2])
 
-            elif any(i in lines[idx + 2].lower() for i in ['comedy', 'комеди']):
+            elif any(i in lines[idx - 1].lower() for i in ['comedy', 'комеди']):
                 line = '#EXTGRP:Комедии\n'
 
-            elif any(i in lines[idx + 2].lower() for i in ['marvel']):
+            elif any(i in lines[idx - 1].lower() for i in ['marvel']):
                 line = '#EXTGRP:Комедии\n'
 
 
