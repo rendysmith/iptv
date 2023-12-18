@@ -5,7 +5,6 @@ output_file_name = 'iptv.m3u'
 
 files = [f for f in os.listdir(current_path) if os.path.isfile(os.path.join(current_path, f)) and f != output_file_name and f.endswith('.m3u')]
 
-
 # Имя входного файла
 input_file_name = files[0]
 
